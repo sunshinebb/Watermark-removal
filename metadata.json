@@ -1,0 +1,5 @@
+{
+  "name": "ClearMark AI",
+  "description": "AI-powered selective watermark removal tool. Upload an image, brush over the watermark, and let AI do the rest.",
+  "requestFramePermissions": []
+}
